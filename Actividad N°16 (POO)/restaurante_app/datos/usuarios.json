@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "nombre": "Administrador",
+        "usuario": "admin",
+        "contraseña": "1234",
+        "rol": "Administrador"
+    },
+    {
+        "id": 2,
+        "nombre": "Cajero del Restaurante",
+        "usuario": "cajero",
+        "contraseña": "1234",
+        "rol": "Empleado"
+    }
+]

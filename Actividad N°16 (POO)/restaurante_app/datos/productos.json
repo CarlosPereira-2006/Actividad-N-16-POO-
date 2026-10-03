@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "nombre": "Hamburguesa",
+        "precio": 5.5,
+        "cantidad": 27
+    },
+    {
+        "id": 2,
+        "nombre": "Pizza",
+        "precio": 8.0,
+        "cantidad": 23
+    },
+    {
+        "id": 3,
+        "nombre": "Papas fritas",
+        "precio": 3.0,
+        "cantidad": 28
+    },
+    {
+        "id": 4,
+        "nombre": "Coca Cola",
+        "precio": 1.5,
+        "cantidad": 42
+    }
+]
